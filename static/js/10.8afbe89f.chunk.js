@@ -1,0 +1,2 @@
+(this.webpackJsonphome=this.webpackJsonphome||[]).push([[10],{282:function(t,e,s){"use strict";s.r(e);var n=s(0);e.default=function(){return Object(n.jsx)("div",{children:"About Us"})}}}]);
+//# sourceMappingURL=10.8afbe89f.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["page/home/projects.js"],"names":["Projects"],"mappings":"iHAOeA,UAPE,WACb,OACA","file":"static/js/12.fb362daa.chunk.js","sourcesContent":["const Projects = () => {\r\n    return (\r\n    <div>\r\n        Projects\r\n    </div>\r\n    )\r\n}\r\nexport default Projects"],"sourceRoot":""}

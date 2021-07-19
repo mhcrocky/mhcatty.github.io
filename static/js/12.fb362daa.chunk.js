@@ -1,0 +1,2 @@
+(this.webpackJsonphome=this.webpackJsonphome||[]).push([[12],{284:function(e,t,s){"use strict";s.r(t);var c=s(0);t.default=function(){return Object(c.jsx)("div",{children:"Projects"})}}}]);
+//# sourceMappingURL=12.fb362daa.chunk.js.map

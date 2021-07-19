@@ -1,0 +1,1 @@
+{"version":3,"sources":["page/home/aboutUs.js"],"names":["AboutUs"],"mappings":"iHAOeA,UAPC,WACZ,OACA","file":"static/js/10.8afbe89f.chunk.js","sourcesContent":["const AboutUs = () => {\r\n    return (\r\n    <div>\r\n        About Us\r\n    </div>\r\n    )\r\n}\r\nexport default AboutUs"],"sourceRoot":""}
