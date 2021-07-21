@@ -1,0 +1,1 @@
+{"version":3,"sources":["page/home/error.js"],"names":["ErrorPage"],"mappings":"gHAGeA,UAHG,WACd,OAAQ","file":"static/js/2.34a6c922.chunk.js","sourcesContent":["const ErrorPage = () => {\r\n    return (<>404</>)\r\n}\r\nexport default ErrorPage"],"sourceRoot":""}
