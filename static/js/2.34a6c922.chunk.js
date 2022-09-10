@@ -1,2 +1,0 @@
-(this.webpackJsonphome=this.webpackJsonphome||[]).push([[2],{292:function(e,t,n){"use strict";n.r(t);var s=n(5);t.default=function(){return Object(s.jsx)(s.Fragment,{children:"404"})}}}]);
-//# sourceMappingURL=2.34a6c922.chunk.js.map
